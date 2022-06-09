@@ -16,9 +16,10 @@ You're delivering packages to customers.<br /> If you want to deliver fast, use 
   *  Colliders
   *  References
 
-<h3> My Unity 2D Game Development Notes </h3>
+<h3> My Unity Notes</h3>
 
-* <a href="https://feline-bubble-268.notion.site/Unity-C-2D-Game-Development-bf3a0e3655ef4e1fbbe91103fc1a926d"><p>Click Here For Notes</p></a>
+* You can check my notes about Delivery Driver and more!
+* <a href="2D-Game-Development-bf3a0e3655ef4e1fbbe91103fc1a926d"><p>Click Here For Notes</p></a>
 
 
 
