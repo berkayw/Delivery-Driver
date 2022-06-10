@@ -5,7 +5,7 @@
 ![delivery project](https://user-images.githubusercontent.com/72252419/172732191-26bf44b0-9a81-4328-8d97-e230bc669163.jpg)
 </br > 
 
-You're delivering packages to customers.<br /> If you want to deliver fast, use the speed ups! But be careful, you will slow down if you crash!
+Let's deliver packages to customers!<br /> If you want to deliver fast, use the speed ups! But be careful, you will slow down if you crash!
   
 <h3> My Experiences </h3>
 
